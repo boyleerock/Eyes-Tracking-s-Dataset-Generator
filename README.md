@@ -1,4 +1,4 @@
-# :eyes: Eyes-Tracking-Dataset-Generator
+# :eyes: Eyes-Tracking-Dataset-Generator :eyes:
 
 ## If you want to collect the dataset for eyes tracking by using YOLOv5, this program can help!!! :smiley:
 
