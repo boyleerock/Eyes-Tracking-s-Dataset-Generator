@@ -3,5 +3,7 @@ The program is to automatically generate the trainging  dataset of Eyes Tracking
 
 In order to efficiently  collect the dataset for eyes tracking by using YOLOv5, 
 
-***Step 1: I use dlib's models, shape_predictor_68_face_landmarks.dat.bz2 to detect eye's landmarks.
-***Step 2: The extracted landmarks can be transferred into the bunding box in YOLOv5's format using
+> python findeyes_convert2yoloformat
+
+The result
+![img1](https://user-images.githubusercontent.com/61671531/179178092-ee89b1b6-f6f7-4dce-b26c-eb66ed08cb35.jpg)
