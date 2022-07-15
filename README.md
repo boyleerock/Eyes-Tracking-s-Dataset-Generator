@@ -1,4 +1,4 @@
-# Eyes-Tracking-s-Dataset-Generator
+# Eyes-Tracking-Dataset-Generator
 If you want to collect the dataset for eyes tracking by using YOLOv5, this program can automatically generate the trainging  dataset for YOLOv5 in 3 steps...
 
 <pre><code>git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator</code></pre>
