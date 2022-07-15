@@ -6,6 +6,8 @@ Here you can easily generate the trainging  dataset for YOLOv5 in 3 steps...
 
 <pre><code>git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator</code></pre>
 
+Download the pretrained model [shape_predictor_68_face_landmarks.dat](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
+
 Then CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat .py
 
 <pre><code>python findeyes_convert2yoloformat.py</code></pre>
