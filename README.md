@@ -1,11 +1,11 @@
 # Eyes-Tracking-s-Dataset-Generator
 If you want to collect the dataset for eyes tracking by using YOLOv5, this program can automatically generate the trainging  dataset for YOLOv5...
 
-> git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator
-> 
-> CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat
-> 
-> python findeyes_convert2yoloformat.py
+< git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator
+
+CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat 
+
+python findeyes_convert2yoloformat.py>
 
 ### Original image:
 
