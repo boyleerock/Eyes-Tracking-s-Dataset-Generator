@@ -4,7 +4,14 @@
 
 Here you can easily generate the trainging  dataset for YOLOv5 in the following steps...
 
+<pre><code>conda create --name eyestrackingyolov5 python=3.7
+conda activate eyestrackingyolov5
+git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator
+</code></pre>
+
 <pre><code>git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator</code></pre>
+
+<pre><code>pip install -r requirements.txt</code></pre>
 
 - Download the pretrained model [shape_predictor_68_face_landmarks.dat](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
 
