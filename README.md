@@ -3,7 +3,8 @@ The program is to automatically generate the trainging  dataset of Eyes Tracking
 
 In order to efficiently  collect the dataset for eyes tracking by using YOLOv5, 
 
-> git clone 
+> git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator
+> 
 > python findeyes_convert2yoloformat
 
 #Original image:
