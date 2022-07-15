@@ -25,7 +25,7 @@ Here you can easily generate the trainging  dataset for YOLOv5 in the following 
 ## After finding eyes :eyes: and create label of YOLOv5...
 ### :star2: The final image result:
 
-![2022-07-15 16-02-45 的![1657_leo](https://user-images.githubusercontent.com/61671531/179191131-04c314bc-444a-4f6f-a21f-d649e10ff147.jpg)
+![1657_leo](https://user-images.githubusercontent.com/61671531/179191131-04c314bc-444a-4f6f-a21f-d649e10ff147.jpg)
 
 ### :star2: Resulting label of YOLOv5:
 
