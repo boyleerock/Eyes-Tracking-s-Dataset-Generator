@@ -3,7 +3,7 @@ If you want to collect the dataset for eyes tracking by using YOLOv5, this progr
 
 > git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator
 > 
-> CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat
+> CHANGE your images folder's name in loop_directory("YOUR FOLDER NAME/") in findeyes_convert2yoloformat
 > 
 > python findeyes_convert2yoloformat.py
 
