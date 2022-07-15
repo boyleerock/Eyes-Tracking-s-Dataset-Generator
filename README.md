@@ -2,15 +2,16 @@
 
 If you want to collect the dataset for eyes tracking by using YOLOv5, this program can help!!!
 
-Here you can easily generate the trainging  dataset for YOLOv5 in 3 steps...
+Here you can easily generate the trainging  dataset for YOLOv5 in the following steps...
 
 <pre><code>git clone https://github.com/boyleerock/Eyes-Tracking-s-Dataset-Generator</code></pre>
 
-Download the pretrained model [shape_predictor_68_face_landmarks.dat](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
+- Download the pretrained model [shape_predictor_68_face_landmarks.dat](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
 
-Then CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat .py
+- Then CHANGE your images folder's name in loop_directory("images/") in findeyes_convert2yoloformat .py
 
 <pre><code>python findeyes_convert2yoloformat.py</code></pre>
+
 
 
 
@@ -20,7 +21,7 @@ Then CHANGE your images folder's name in loop_directory("images/") in findeyes_c
 
 
 
-
+### After finding eyes and create label of YOLOv5...
 ### The final image result:
 
 ![img1](https://user-images.githubusercontent.com/61671531/179178092-ee89b1b6-f6f7-4dce-b26c-eb66ed08cb35.jpg)
